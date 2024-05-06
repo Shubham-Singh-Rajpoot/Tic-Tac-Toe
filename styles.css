@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan+SC&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    background-color: black;
+    color: white;
+    height: 70px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-family: "Sedan SC", serif;
+}
+nav ul{
+    list-style-type: none;
+}
+.gameContainer
+{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.container
+{
+
+}
